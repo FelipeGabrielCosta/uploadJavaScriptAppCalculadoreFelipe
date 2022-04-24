@@ -1,0 +1,53 @@
+nav a {
+  margin: 5px 25px;
+}
+
+.navbar-nav{
+  margin-left: auto;
+}
+
+nav a img {
+  margin-left: 35px;
+}
+
+p, h1, h2, h3, h6{
+  color: white;
+}
+
+p {
+  font-size: 20px;
+}
+
+#apresentacao {
+  margin: 142px 0px 
+}
+
+#apresentacao img{
+  margin-left: 50px;
+}
+
+#sobre {
+  padding: 300px 30px 300px 30px;
+  background: rgba(0, 0, 0, 0.171);
+}
+
+#projetos {
+  padding-top: 100px;
+}
+
+#projetos p, #projetos h5{
+  color:white;
+}
+
+#contatos {
+  color: wheat;
+  background: rgba(0, 0, 0, 0.171);
+  margin-top: 100px;
+  padding-top: 20px;
+}
+
+#rodape {
+  background-color: rgba(0, 0, 0, 0.171);
+  padding: 15px 0;
+}
+
